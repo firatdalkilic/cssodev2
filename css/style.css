@@ -26,9 +26,7 @@ body {
 }
 
 .content {
-    width: 1475px;
-    /* height: 86px; */
-    /* float: left; */
+    width: 1475px;  
     display: flex;
     margin: 2px auto;
 
