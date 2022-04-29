@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.box {
+    width: 1475px;
+    background-color: rgb(238, 238, 238);
+    margin: auto;
+    
+}
+
+.arama {
+    width: 350px;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+.g-baslik {
+    font-size: 19px;
+}
+
+.content {
+    width: 1475px;
+    /* height: 86px; */
+    /* float: left; */
+    display: flex;
+    margin: 2px auto;
+
+}
+
+
+
+.bolum {
+    background-color: rgb(126, 229, 218);
+    width: 40%;
+    display: flex;
+    text-align : center;
+    margin: 0 auto;
+    padding-left: 10%;
+
+}
+
+.bolum1 {
+    background-color: rgb(112, 204, 194);
+    width: 33%;
+    font-size: 13px;
+}
+
+.bolum2 {
+    background-color: rgb(98, 179, 170);
+    width: 73%;
+    text-align: center;
+    
+   
+}
+
+.yuksek {
+    height: 86px;
+}
+
+.clear {
+    clear: both;
+}
+
+li {
+    list-style-type: none;
+}
